@@ -1,0 +1,36 @@
+.container{
+    height: 500px;
+    width: 1100px;
+    background-color: blue;
+    align-items: end;
+    /* justify-content: end; */
+    place-content: end;
+    position: relative;
+}
+.ball{
+    height: 70px;
+    width: 70px;
+    background-color: red;
+    border-radius: 70px;
+    position: absolute;
+    animation: animatex 3s linear infinite ,
+               animatey 1s ease-out infinite alternate
+}
+@keyframes animatex {
+    from{
+        left: 0;
+    }
+    to{
+        left: 100%;
+    }
+    
+}
+@keyframes animatey {
+    from{
+        bottom: 0;
+    }
+    to{
+        bottom: 100%;
+    }
+    
+}
