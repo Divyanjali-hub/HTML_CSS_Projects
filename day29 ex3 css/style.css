@@ -1,0 +1,124 @@
+body{
+    background-color: rgb(137, 138, 138);
+}
+/* .div{
+    background-attachment: white;
+} */
+/* .parent{
+    background-color: azure;
+    position: sticky;
+    left: 530px;
+    top:325px ;
+    width: 344px;
+    height: 245px;
+    border-radius: 7px; */
+    
+
+/* } */
+div img{
+    border-radius: 7px;
+    background-color: azure;
+    margin: 8px;
+    padding: 5px;
+    
+}
+
+
+.box{
+    padding: 0;
+    margin: 0;
+     background-color: azure;
+    position: absolute;
+    left: 530px;
+    border-color: azure;
+    border-radius: 7px;
+    
+
+}
+.anbox1{
+    margin: 0;
+    padding: 0;
+     background-color: azure;
+    position: absolute;
+    left: 575px;
+    top:350px ;
+    color: rgb(172, 171, 170);
+    border: 3px solid rgb(237, 233, 233);
+    border-radius: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.anbox2{
+    margin: 0;
+    padding: 0;
+     background-color: azure;
+    position: absolute;
+    left: 625px;
+    top:350px ;
+    color: rgb(172, 171, 170);
+    border: 3px solid rgb(237, 233, 233);;
+    border-radius: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box2{
+    margin: 0;
+    padding: 0;
+     background-color: azure;
+    position: absolute;
+    left: 530px;
+    top:350px ;
+}
+.box2{
+    margin: 0;
+    padding: 0;
+     background-color: azure;
+    position: absolute;
+    left: 530px;
+    top:350px ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box3{
+    margin: 0;
+    padding: 0;
+     background-color: azure;
+    position: absolute;
+    left: 530px;
+    top:395px ;
+    right: 530px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(149, 151, 152);
+}
+/* .box4{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 680px;
+    top:500px ;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* color: rgb(149, 151, 152); */
+    /* position: absolute;
+    border-radius: 200px; */ 
+    
+
+/* } */
+.bbox{
+     margin: 0;
+    padding: 0;
+     background-color: azure;
+    position: absolute;
+    left: 680px;
+    top:500px ;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* color: rgb(149, 151, 152); */
+    position: absolute;
+    border: 2px solid rgb(188, 188, 188);
+    border-radius: 50px;
+    background-color:  rgb(188, 188, 188);
+
+}
